@@ -1,0 +1,44 @@
+html {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color:palegoldenrod;
+    background-image: url(Wallpaper_blur.png);
+    background-position: center center;
+    background-size: cover;
+    text-align: center;
+}
+
+#pfp {
+    width: 300px;
+    margin-top: 10px;
+    border:10px solid palegreen;
+    border-radius: 50%;
+}
+
+#title{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 10pt;
+}
+
+.card{
+    margin: 10px auto;
+    background-color: pink;
+    width: 100px;
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+}
+
+a{
+    text-decoration: white;
+}
+
+.container {
+    margin: 15px auto;
+    text-align: center;
+}
